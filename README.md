@@ -1,6 +1,6 @@
 <img src="./CloudClinic_Logo.svg" width="240"/>
 
-# Team: Yogesh Bansal, Ankur 
+# Team: Yogesh Bansal, Ankur, Chirag 
 
 # An Integrated Virtual Health Consultation Dashboard
 
